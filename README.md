@@ -32,7 +32,3 @@ My task was to generate a minimal series of stack operations to arrange the numb
 - Output the sequence of operations, each on its own line, that sorted the stack correctly.
 - Try so the instructions were as few as possible.
 - Usage of standard library functions such as `read`, `write`, `malloc`, `free`, and `exit`.
-
-
-## Final Thoughts
-This project challenged my ability to manipulate data structures efficiently while adhering to strict coding and performance standards.
